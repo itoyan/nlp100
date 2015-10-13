@@ -8,7 +8,7 @@ original = "Hi He Lied Because Boron Could Not Oxidize Fluorine. " \
     "New Nations Might Also Sign Peace Security Clause. Arthur King Can."
 wordList = original.replace(".", "").split(" ")
 
-# wordListから1文字目だけ取り出す
+# wordListから何番目の配列の要素だけを1文字目だけ取り出すか指定
 single = [1, 5, 6, 7, 8, 9, 15, 16, 19]
 
 chemicalSymbol = {}
