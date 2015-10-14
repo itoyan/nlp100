@@ -8,6 +8,6 @@ original = "Now I need a drink, alcoholic of course, after the heavy lectures in
 new_sentence = orig.replace(".", "").replace(",", "")
 
 words_list = new_sentence.split(" ")
-word_len = [len(w) for w in wordslist]
+word_len = [ len(w) for w in wordslist ]
 
 print word_len
