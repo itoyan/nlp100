@@ -11,4 +11,4 @@ x=12
 y=u"気温"
 z=22.4
 
-print informTime(x, y, z)
+print informYisZatX(x, y, z)
